@@ -8,11 +8,13 @@ body{
     margin: auto;   
 }
 .texto1{
+    margin: 10px;
     font-size: 20px;
     color: hsl(218, 44%, 22%);
     font-weight: 700;
 }
 .texto2{
+    margin: 10px;
     font-size: 15px;
     color: hsl(220, 15%, 55%);
 }
