@@ -1,0 +1,33 @@
+html{
+    display: flex;
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+}
+body{
+    position: relative;
+    margin: auto;   
+}
+.texto1{
+    font-size: 20px;
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+}
+.texto2{
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+}
+.img{
+    border-radius: 10px;
+    justify-content: center;
+    width: 100%; 
+}
+.container{
+    box-sizing: border-box;
+    border-radius: 10px;
+    padding: 15px;
+    display: block;
+    background-color: white;
+    text-align: center;
+    width: 300px;
+    margin-top: 50%;
+}
