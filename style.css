@@ -1,27 +1,34 @@
-html{
+html {
     display: flex;
     background-color: hsl(212, 45%, 89%);
     font-family: 'Outfit', sans-serif;
 }
-body{
+
+body {
     position: relative;
-    margin: auto;   
+    margin: auto;
 }
-.texto1{
+
+.texto1 {
+    margin: 10px;
     font-size: 20px;
     color: hsl(218, 44%, 22%);
     font-weight: 700;
 }
-.texto2{
+
+.texto2 {
+    margin: 10px;
     font-size: 15px;
     color: hsl(220, 15%, 55%);
 }
-.img{
+
+.img {
     border-radius: 10px;
     justify-content: center;
-    width: 100%; 
+    width: 100%;
 }
-.container{
+
+.container {
     box-sizing: border-box;
     border-radius: 10px;
     padding: 15px;
@@ -29,5 +36,5 @@ body{
     background-color: white;
     text-align: center;
     width: 300px;
-    margin-top: 50%;
+    margin-top: 50%;  
 }
